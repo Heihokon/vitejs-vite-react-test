@@ -11,9 +11,8 @@ const Main = () => {
 
   return (
     <FlagshipProvider
-      envId="c1ndrd07m0300ro0jf20"
-      apiKey="QzdTI1M9iqaIhnJ66a34C5xdzrrvzq6q8XSVOsS6" // <= Required in next major release
-      timeout={2}
+      envId=""
+      apiKey=""
       visitorData={{
         id: id,
         context,
